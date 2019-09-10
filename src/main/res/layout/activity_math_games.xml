@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_math_games"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".MathGames">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="81dp"
+            android:layout_marginBottom="40dp"
+            android:padding="8dp"
+            android:text="What is value of square root of 25?"
+            android:textSize="20sp"
+            android:id="@+id/questionTV" />
+
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:layout_marginLeft="90dp"
+        android:background="#0091EA"
+        android:padding="8dp"
+        android:text="9"
+        android:textColor="#fff" />
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="5"
+            android:background="#0091EA"
+            android:textColor="#fff"
+            android:padding="8dp"
+            android:layout_marginBottom="24dp"
+            android:layout_marginLeft="90dp"
+            android:id="@+id/btn2"/>
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="2"
+            android:background="#0091EA"
+            android:textColor="#fff"
+            android:padding="8dp"
+            android:layout_marginBottom="24dp"
+            android:layout_marginLeft="90dp"
+            android:id="@+id/btn3"
+            />
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="2"
+            android:background="#0091EA"
+            android:textColor="#fff"
+            android:padding="8dp"
+            android:layout_marginBottom="24dp"
+            android:layout_marginLeft="90dp"
+            android:id="@+id/btn4"
+        />
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="quit games"
+            android:background="#B71C1C"
+            android:textColor="#fff"
+            android:padding="8dp"
+            android:layout_marginBottom="24dp"
+            android:layout_marginLeft="90dp"
+            android:id="@+id/quit"/>
+
+    </LinearLayout>

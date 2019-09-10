@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "311412418732",
+    "firebase_url": "https://mathgames-55bbe.firebaseio.com",
+    "project_id": "mathgames-55bbe",
+    "storage_bucket": "mathgames-55bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311412418732:android:3a2e3a5e3034fb42",
+        "android_client_info": {
+          "package_name": "com.example.izz.mathgames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311412418732-s4mq29ncofvr4brgkr495u9dlcr5i294.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.izz.mathgames",
+            "certificate_hash": "5ba20f6947ade27d1ba863dab3e6ec2e04549c69"
+          }
+        },
+        {
+          "client_id": "311412418732-7mhgf3eu0oru25qrs52739drq9fjkci8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg0MpC4qu15M9gHs_dkf_8UHZM_SBiLSw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311412418732-7mhgf3eu0oru25qrs52739drq9fjkci8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
